@@ -1,5 +1,5 @@
-xterm*faceName: xft: Droid Sans Mono
-xterm*faceSize: 14
+xterm*faceName: xft: Source Code Pro
+xterm*faceSize: 13
 xterm*saveLines: 2000
 xterm*foreground: white
 xterm*background: black
